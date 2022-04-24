@@ -25,3 +25,4 @@ topics:
 3. At the bottom of the pull request, below the comment box, click **Close pull request**.
   ![The close Pull Request button](/assets/images/help/pull_requests/pullrequest-closebutton.png)
 4. Optionally, [delete the branch](/articles/deleting-unused-branches). This keeps the list of branches in your repository tidy.
+*closing-a-pull-request.md*
